@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-<div class='ly-botton'>按钮组件</div>
+<button class='ly-botton'></button>
 </template>
 
 <script>
@@ -8,7 +8,7 @@
 //例如：import 《组件名称》 from '《组件路径》';
 
 export default {
-name:"LyBotton"
+    name:"LyBotton"
 }
 </script>
 <style lang='scss' scoped>
