@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import LyBotton from "./components/botton.vue"
+import LyBotton from './components/button.vue'
  
 Vue.config.productionTip = false
 
