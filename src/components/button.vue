@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-<button class='ly-botton'>按钮组件</button>
+<div class='ly-botton'>按钮组件</div>
 </template>
 
 <script>
