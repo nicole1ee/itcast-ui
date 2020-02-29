@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-<button class='ly-botton'></button>
+<button class='ly-botton'><span><slot></slot></span></button>
 </template>
 
 <script>
